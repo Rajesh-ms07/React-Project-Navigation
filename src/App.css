@@ -1,0 +1,33 @@
+*{color:white
+
+}
+
+
+
+.dd {
+  display: inline-block;
+  margin: 8px;
+  border: 1px solid black;
+  padding: 6px 12px;
+  background-color: black;
+  border-radius: 5px;
+  text-decoration: none;  
+  color: rgb(0, 0, 0);            
+}
+.dd:link,
+.dd:visited {
+  text-decoration: none;
+  color: rgb(0, 0, 0);
+}
+
+.dd:hover {
+  background-color: rgb(255, 0, 0);
+  color: black !important; 
+}
+
+.dd:active {
+  color: red;
+}
+h1{
+    color:black;
+}
